@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/abi-web-app-documentation/badge/?version=latest)](http://abi-web-app-documentation.readthedocs.io/?badge=latest)
+
 # Web app documentation
 
 Provides documentation for building modular apps using Vue, Vuetify, and threejs.
@@ -5,12 +7,11 @@ See the documentation for more information.
 
 ## Dependencies
 
-See requirements.txt for python dependencies.
-The python module named parameterized is used for testing.
+See requirements.txt for dependencies.
 
 ## Accessing documentation
 
-The documentation is hosted on Readthedocs - add link
+The documentation is hosted on Readthedocs - https://abi-web-app-documentation.readthedocs.io/en/latest/index.html
 
 ## Building documentation locally
 
